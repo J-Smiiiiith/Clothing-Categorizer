@@ -6,4 +6,4 @@ search_terms = ["young mens fashion", "mens winter outfits", "mens casual outfit
 # Terms to search for images
 
 for term in search_terms:
-    response().download(term, 500)
+    response().download(term, 1)
